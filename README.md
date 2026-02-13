@@ -30,6 +30,7 @@ Solar-Nowcasting-Capstone/
 ├── results/               # 실험 결과 그래프 및 로그
 ├── README.md              # 프로젝트 설명서
 └── requirements.txt       # 필요 라이브러리 명세
+```
 
 ## 💻 핵심 기술 (Tech Stack)
 * **Language**: Python
