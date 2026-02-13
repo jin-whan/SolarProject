@@ -43,6 +43,7 @@ Solar-Nowcasting-Capstone/
 * **입력 데이터**: 1분 간격의 고해상도 하늘 이미지
 * **타겟 데이터**: 동시간대 실제 태양광 발전량 수치
 * *Note: 원본 데이터는 용량이 크므로 Stanford PURL에서 별도 다운로드가 필요합니다.*
+* [Stanford SKIPP'D Dataset 다운로드](https://purl.stanford.edu/dj417rh1007)
 
 ## 🚀 실험 결과 (Experimental Results)
 제안된 CNN-LSTM 모델을 적용한 결과, 기존 베이스라인 모델 대비 시계열 예측 성능이 향상됨을 확인하였습니다.
