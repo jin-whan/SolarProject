@@ -50,8 +50,8 @@ Solar-Nowcasting-Capstone/
 
 | Metric | CNN Baseline | **Proposed (CNN-LSTM)** |
 |:---:|:---:|:---:|
-| **RMSE** | *0.XX* | **0.YY** (개선) |
-| **MAE** | *0.XX* | **0.YY** (개선) |
+| **RMSE** | *4.27* | **2.65** (개선) |
+| **MAE** | *2.95* | **1.52** (개선) |
 
 <p align="center">
   <img src="results/prediction_graph_sample.png" width="45%" alt="맑은 날 예측">
