@@ -18,7 +18,7 @@
 3.  **Temporal Analysis (LSTM)**: 추출된 특징들의 시간적 흐름(이동 방향, 속도) 학습
 4.  **Output**: 미래 시점의 예상 발전량 (kW)
 
-> *[여기에 시스템 구성도나 모델 구조 그림을 캡처해서 넣으면 완벽합니다]*
+<img src="results/model_sample.PNG" width="70%" alt="model">
 
 ## 📂 폴더 구조 (Directory Structure)
 ```text
