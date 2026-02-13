@@ -54,12 +54,12 @@ Solar-Nowcasting-Capstone/
 | **MAE** | *2.95* | **1.52** (개선) |
 
 <p align="center">
-  <img src="results/prediction_graph_sample.png" width="45%" alt="맑은 날 예측">
-  <img src="results/prediction_cloudy_sample.png" width="45%" alt="흐린 날 예측">
+  <img src="results/CNN_sample.png" width="45%" alt="CNN">
+  <img src="results/CNNLSTM_sample.png" width="45%" alt="CNN-LSTM">
 </p>
 
-* **왼쪽**: 맑은 날(Clear Sky) 예측 결과 (실제값과 거의 일치)
-* **오른쪽**: 흐린 날(Cloudy) 예측 결과 (급격한 변동 추종 확인)
+* **왼쪽**: CNN 모델 예측 결과
+* **오른쪽**: CNN-LSTM 하이브리드 모델 예측 결과
 
 ## 🔧 실행 방법 (How to Run)
 1.  이 저장소를 Clone 합니다.
