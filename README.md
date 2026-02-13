@@ -54,8 +54,8 @@ Solar-Nowcasting-Capstone/
 | **MAE** | *2.95* | **1.52** (개선) |
 
 <p align="center">
-  <img src="results/CNN_sample.png" width="45%" alt="CNN">
-  <img src="results/CNNLSTM_sample.png" width="45%" alt="CNN-LSTM">
+  <img src="results/CNN_sample.PNG" width="45%" alt="CNN">
+  <img src="results/CNNLSTM_sample.PNG" width="45%" alt="CNN-LSTM">
 </p>
 
 * **왼쪽**: CNN 모델 예측 결과
